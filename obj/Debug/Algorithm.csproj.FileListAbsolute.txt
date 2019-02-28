@@ -1,0 +1,7 @@
+C:\Users\ostap\source\repos\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\ostap\source\repos\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\ostap\source\repos\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\ostap\source\repos\Algorithm\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+C:\Users\ostap\source\repos\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\ostap\source\repos\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\ostap\source\repos\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
